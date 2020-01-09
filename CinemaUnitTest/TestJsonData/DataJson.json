@@ -1,0 +1,19 @@
+{
+  "CustomerModel": [
+    {
+      "UserName": "Shubh",
+      "Email": "shubh@mailinator.com",
+      "SeatNumber": [ 1, 2, 3 ]
+    },
+    {
+      "UserName": "Rakesh",
+      "Email": "rakesh.s@mailinator.com",
+      "SeatNumber": [ 4, 9 ]
+    },
+    {
+      "UserName": "RakeshNew",
+      "Email": "rakesh@mailinator.com",
+      "SeatNumber": []
+    }
+  ]
+}
